@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>iPad Trackpad</title>
+    <item>
+      <title>iPad Trackpad 2.3</title>
+      <pubDate>Tue, 03 Nov 2026 15:43:40 +0100</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Prima versione che si aggiorna da sola: le prossime arriveranno senza fare niente, appena nessun iPad è collegato.</p><ul><li>Dove si vede il video (Solo Mac, Mac e iPad, Solo iPad) si sceglie nella finestra video di K ADR Export.</li><li>L'icona nella barra dei menu si vede sempre.</li></ul>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/ipad-trackpad-releases/releases/download/v2.3/iPad-Trackpad-2.3.zip" length="2440504" type="application/octet-stream" sparkle:edSignature="4Bhyhn1ZXZwQLmJbw8FTWOOAyu7aZ18w8Ai04kZPAVat2iWRRmGqFBSYKX3vzaIuekhli5xizYR62oIFeQ61Cw=="/>
+    </item>
+  </channel>
+</rss>
